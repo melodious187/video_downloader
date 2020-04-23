@@ -11,4 +11,5 @@ Stefan Roman
 Adding comment 1 as part of rebasing lesson 
 # Comment 2
 Adding comment 2 as part of rebasing lesson 
-
+# Comment 3
+Adding comment 3 as part of rebasing lesson

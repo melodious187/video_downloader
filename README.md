@@ -7,6 +7,8 @@ Video Downloader software is a dummy software and cannot be used for downloading
 # Author
 Stefan Roman
 
-# Comment
+# Comment 1
 Adding comment 1 as part of rebasing lesson 
+# Comment 2
+Adding comment 2 as part of rebasing lesson 
 
